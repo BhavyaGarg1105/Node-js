@@ -1,6 +1,7 @@
 const fs = require('fs');
 
 //Here Non blocking read is done.
+
 // fs.readFile('file.txt','utf8',(err,data)=>{
 //     console.log(err,data)
 // })
